@@ -1,7 +1,7 @@
 # yt-dlp - livechat json to srt converter
 Converts the *.live_chat.json file into a .srt subtitle file
 
-You can find the original code [here](https://gist.github.com/kylemsguy/dbdc3af9a88ff0079d40d8d39059b2b5)
+The original code can be found [here](https://gist.github.com/kylemsguy/dbdc3af9a88ff0079d40d8d39059b2b5)
 
 # Requirements
 * You have to install python3 and yt-dlp first to use it.
